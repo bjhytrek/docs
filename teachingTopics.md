@@ -6,20 +6,23 @@ The following are topics that we can learn about, write about and teach to one a
 
 - Aria
 - Storage options
-- WebWorks
 - Pseudo Classes & Pseudo Elements
 - Selector Performance
 - vMin & vMax
 - Event Delegation and Event Bubbling
 - Currying
-- The Fat Arrow
 - Layout vs Paint vs Composite
 - Unit Testing
 - CSS Variables
-- CSS Grids
 - Recursion vs Looping
 - Native Components
 
 ###Assigned Topics
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
+
+- Setting up an article and gists in medium - Colt
+- CSS Grids - Dave
+- The Fat Arrow - Nils
+- WebWorkers - Blake
+
