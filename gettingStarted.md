@@ -64,10 +64,9 @@ This is to put all your projects in. It may be advantageous to also create a com
 
 ## Install LDSJS
 The ldsjs library allows you to install starter kits for Javascript-based projects, like React.js or Angular.js. It also makes it simple to create new components within those projects. Ldsjs is maintained by the front-end stack team. 
-1. Make sure you set NPM to use our local NPM repo first:
-* `npm config set registry https://registry.npmjs.org/`
-2. Install ldsjs globally
-* `npm i -g ldsjs`
+
+1. Make sure you set NPM to use our local NPM repo first: `npm config set registry https://registry.npmjs.org/`
+2. Install ldsjs globally: `npm i -g ldsjs`
 
 ## Get added to the moFed groups:
 * Slack - #mofed channel in CSP
