@@ -31,8 +31,8 @@ This is to put all your projects in. It may be advantageous to also create a com
 ### plugins for atom:
 * Linter: https://atom.io/packages/linter
 * ESlint: https://atom.io/packages/linter-eslint
-* ~ todo-show: https://atom.io/packages/todo-show ~ language-todo is now a default package.
-* ~ Terminal-plus: https://atom.io/packages/terminal-plus ~ No longer supported.
+* ~~ todo-show: https://atom.io/packages/todo-show ~~ language-todo is now a default package.
+* ~~ Terminal-plus: https://atom.io/packages/terminal-plus ~~ No longer supported.
 	* platformIo-ide-terminal: https://atom.io/packages/platformio-ide-terminal (form of terminal-plus)
 * Tab-title: https://atom.io/packages/tab-title
 * React: https://atom.io/packages/react
