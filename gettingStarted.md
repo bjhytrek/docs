@@ -33,7 +33,7 @@ This is to put all your projects in. It may be advantageous to also create a com
 * ESlint: https://atom.io/packages/linter-eslint
 * ~~todo-show: https://atom.io/packages/todo-show~~ language-todo is now a default package.
 * ~~Terminal-plus: https://atom.io/packages/terminal-plus~~ No longer supported.
-	* platformIo-ide-terminal: https://atom.io/packages/platformio-ide-terminal (form of terminal-plus)
+* platformIo-ide-terminal: https://atom.io/packages/platformio-ide-terminal (fork of terminal-plus)
 * Tab-title: https://atom.io/packages/tab-title
 * React: https://atom.io/packages/react
 * Pigments: https://atom.io/packages/pigments
@@ -59,9 +59,9 @@ This is to put all your projects in. It may be advantageous to also create a com
 * Sip: https://itunes.apple.com/us/app/sip/id507257563?mt=12
 * xScope: http://xscopeapp.com
 * Little Ipsum: http://dustinsenos.com/littleIpsum
-* ~ Caffeine: https://itunes.apple.com/fm/app/caffeine/id411246225?mt=12 ~
+* ~~Caffeine: https://itunes.apple.com/fm/app/caffeine/id411246225?mt=12~~
 * Amphetamine: https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12&ign-mpt=uo%3D4
-	* I have found this better than Xaffeine, but needs a very little bit of config
+	* I have found this better than Caffeine, but needs a very little bit of config
 
 ## Install LDSJS
 The ldsjs library allows you to install starter kits for Javascript-based projects, like React.js or Angular.js. It also makes it simple to create new components within those projects. Ldsjs is maintained by the front-end stack team. 
