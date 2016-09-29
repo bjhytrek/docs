@@ -4,18 +4,22 @@ The following are topics that we can learn about, write about and teach to one a
 
 ### Unassigned Topics
 
-- Aria
 - Storage options
 - Pseudo Classes & Pseudo Elements
 - Selector Performance
 - vMin & vMax
 - Event Delegation and Event Bubbling
-- Currying
-- Layout vs Paint vs Composite
+- Layout / Paint / Composite
 - Unit Testing
 - CSS Variables
 - Recursion vs Looping
 - Native Components
+- React (Why did we go there?)
+- Redux
+- State in react
+- IndexDB / Local storage
+- attr (css)
+
 
 ### Assigned Topics
 
@@ -24,6 +28,9 @@ To select a topic to teach on, please add your name to it along with the date yo
 - CSS Grids - Dave
 - The Fat Arrow - Nils
 - WebWorkers - Blake
+- Aria - Kerry
+- Currying - Tyler
+- direction / -start / -end properties - Colt
 
 ### Done Topics
 
