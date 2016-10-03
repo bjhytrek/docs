@@ -87,3 +87,11 @@ The ldsjs library allows you to install starter kits for Javascript-based projec
 * Terminal command: `defaults write com.apple.screencapture location ~/Desktop/screenshots`.
 * Terminal command: `killall SystemUIServer`.
 * Take a screenshot to test: `command + shift + 4` (`+ space` will take a screen shot of a selected app).
+
+### Quick commands for showing and hiding files in finder
+* Open terminal
+* `sudo atom ~/.bash_profile` or if you don't have atom you can use nano or vim.
+* paste the following and save:
+  * `alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app'`
+  * `alias hideFiles='defaults write com.apple.finder AppleShowAllFiles NO; killall Finder /System/Library/CoreServices/Finder.app'`
+* now you can type `showFiles` and `hideFiles` in the terminal to show and hide hidden files.
