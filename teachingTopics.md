@@ -28,28 +28,27 @@ The following are topics that we can learn about, write about and teach to one a
 
 ### pick from these first
 - State
-- props vs. State vs. Global state
-- simple components
-- component and projects starters
+- Props vs. State vs. Global state
+- Component and projects starters
 - Redux
 - Some ES6/es2016/es7 as they relate to use in react
-  - class, constructor, super
-  - desctructuring / default values
-  - modules (import export)
+  - Class, constructor, super
+  - Desctructuring / default values
+  - Modules (import export)
+  - Template Strings
   - and More…
-- Template, consuming components
-- using a template in a project
 - Component principles
 - React architecture overview
-
-
 
 
 ### Assigned Topics
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
-
+  Mega React Workshop:
+  - Simple react component / component starter: Colt Pini (10/27)
+  - Creating a template, consuming components: Nils Rasmusson (11/3)
+  - Using a template in a project: Blake Plumb (11/10)
 
 ### Done Topics
 
