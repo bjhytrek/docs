@@ -45,10 +45,10 @@ The following are topics that we can learn about, write about and teach to one a
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
-  Mega React Workshop:
-  - Simple react component / component starter: Colt Pini (10/27)
-  - Creating a template, consuming components: Nils Rasmusson (11/3)
-  - Using a template in a project: Blake Plumb (11/10)
+  Mega React Workshop (Colt Pini, Nils Rasmusson, Blake Plumb) - 10/27/16:
+  - Simple react component / component starter
+  - Creating a template, consuming components
+  - Using a template in a project
 
 ### Done Topics
 
