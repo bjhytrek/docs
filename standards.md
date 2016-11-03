@@ -17,6 +17,7 @@
 
 ## For strings in js
 - use the \` not ' or "
+- for import statements use '
 
 ## Let and Const
 - Var is dead to us.
