@@ -5,6 +5,7 @@ The following are topics that we can learn about, write about and teach to one a
 ### Unassigned Topics
 
 - Storage options
+- React Lifecycle Events (What they are and when to use them)
 - Pseudo Classes & Pseudo Elements
 - Selector Performance
 - vMin & vMax
