@@ -35,9 +35,9 @@ The following are topics that we can learn about, write about and teach to one a
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
-Blake - Simple and state component
-Nils - CSS Grid
-Colt - React architecture overview - Component and projects starters
+- Blake - Simple and state component
+- Nils - CSS Grid
+- Colt - React architecture overview - Component and projects starters
 
 ### Done Topics
 - Setting up an article and gists in medium - Colt https://medium.com/mofed/writing-a-technical-article-on-medium-37becda5ffcb#.4zs6iyyv8
