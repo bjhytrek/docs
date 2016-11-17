@@ -40,7 +40,8 @@ To select a topic to teach on, please add your name to it along with the date yo
 - Colt - React architecture overview - Component and projects starters
 
 ### Done Topics
-- Setting up an article and gists in medium - Colt https://medium.com/mofed/writing-a-technical-article-on-medium-37becda5ffcb#.4zs6iyyv8
-- ES6 cool stuff - Colt - https://medium.com/mofed/es6-series-e9f1f1ce2cd4#.238bu55lo
 - ES6 arrays - Tyler https://medium.com/mofed/5-new-es6-array-methods-you-should-be-aware-of-c2792423dd9f#.rsuv9rvd6
+- ES6 cool stuff - Colt - https://medium.com/mofed/es6-series-e9f1f1ce2cd4#.238bu55lo
+- Setting up an article and gists in medium - Colt https://medium.com/mofed/writing-a-technical-article-on-medium-37becda5ffcb#.4zs6iyyv8
+
 
