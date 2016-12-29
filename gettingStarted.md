@@ -50,6 +50,7 @@ This is to put all your projects in. It may be advantageous to also create a com
 * Mini-map: https://atom.io/packages/minimap
 * Simple-drag-drop-text: https://atom.io/packages/simple-drag-drop-text
 * tabs-to-spaces: https://atom.io/packages/tabs-to-spaces
+* autocomplete-paths: https://atom.io/packages/autocomplete-paths
 
 ## Slack:
 * CSP: http://ldscsp.slack.com
