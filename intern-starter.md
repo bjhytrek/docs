@@ -21,4 +21,23 @@ The DevTest is located [here](https://github.com/teamMoFed/devtest). Please read
 
 This is meant to be a challenging but fun experience. Try to have fun with it and see how much you can learn.
 
-##Contribution Project
+##Project 2: Internal Project
+
+For your next project, we'd like you to work on a tool or service that would benefit the other front end developers. You'll want to check with your manager for details on this but you'll likely be starting with one of the projects on this list:
+
+* **[LDS Placeholder](https://design.ldschurch.org/csp/placeholder)** - This is an internal image service, similar to Lorem Pixel, where a developer can select a category and image size to use in their development. The benefit is that all of the images provided here are hand picked to be appropriate and relevant to the church. This service was written in PHP several years ago and used image_moo.php to handle the bulk of the work. The home page for the service was reskinned in mid 2016 but the whole service could benefit from being written in React and using modern CSS and Javascript. NPM modules are fine to use. The repo for this is located on [bitbucket in CSPFED](https://code.ldschurch.org/git/projects/CSPFED/repos/placeholder/browse).
+* **Language Files for Lumen SCSS** - At one point, a language spreadsheet was created using Google Docs that contains charatecteristics of all of the languages that we support. This spreadsheet, unfortunately, was created in Google Docs and is used as part of a compilation process that outputs a series of .scss files. The file that processes the spreadsheet is called languages.js. This whole process ought to be overwritten to use our local/supported resources rather than Google Docs. The [author's notes](https://docs.google.com/document/d/1FsTKhJKJOhSEor_OQDVN-uCguFqBzNl8_4JxSi5Pp5w/edit#) on this process as it works today are as follows: "[Styling LDS.org Languages](https://docs.google.com/spreadsheets/d/1iln-6bG3IgWKriY6F7z9ROCcG6P-1fdLDmXNFT6PMaw/edit#gid=0) - This spreadsheet is what is used for the javascript utilties in [Lumen SASS](https://code.ldschurch.org/git/projects/LUMEN/repos/lumen-sass/browse). Update the spreadsheet, and run the languages.js utility within the lumen sass project and it will output new [lang].scss files for all languages that can be consumed by projects that need them.  You just save the changes into lumen-sass and they update that component to get the latest language updates."
+* **More projects should be added to this list**
+
+##Project 3: Production Product Work
+
+For the remainder of your time as an intern, we'd like you to work with your team or other teams in the portfolio to do actual project work that will likely be headed for production. You'll work with the MoFed manager and team leads to determine where your time can best be spent to benefit the work as well as yourself. Remember to regularly check in with your coworkers to make sure you're on the right track and always submit pull requests so that your code can be reviewed by others - just like we all do.
+
+##Helpful Information
+You may find the following information helpful as you navigate the waters of church employment.
+
+* You are a part of the Communication Services Portfolio (CSP), which is one of the portfolios in Information Communication Services (ICS). ICS is made up of most everyone in the Riverton Office Building (ROB) but we work with other teams, like Publishing  Services Department (PSD) and others.
+* CSP is broken up into several teams. Each team has a different set of projects that they have ownership over. Each team has an assigned Team Lead, Assistant Team Lead and a Project Manager (PM) and Solutions Manager (SM). The PM and SM may have stewardship over more than one team. The portfolio also has a Portfolio Director (PD), who is Ron Stutz.
+* The MoFed team consists of all front end developers in CSP. We have a front end Manager, Colt Pini, who is our employment manager. In other words, he's the one who defines the direction that the front end takes and oversees training, technology and HR matters. Nils Rasmusson is the assistant front end manager and there are several front end team leads who help provide direction for their teams of front end developers. 
+
+That's it! Always feel free to ask any of us if you have questions and we'd especially love to hear your feedback on our processes and how we work in general. If you think there's a better way to do something, don't by shy! We want to serve in the best way we can and will adapt where possible. Not all decisions are in our hands but if we can improve, let's!
