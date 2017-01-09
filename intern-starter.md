@@ -1,4 +1,4 @@
-#The MoFed Intern Starter Kit
+#The MoFed Intern Starter Doc
 
 Welcome to the team! As an intern on the CSP Front End team (we call ourselves MoFed, for Mormon Front End Developers), we want you to grow as much as possible and contribute as well. This starter kit will outline your first set of projects and will allow us to evaluate where you're at. It will also give you the opportunity to learn and to build out tools that will help the rest of the team.
 
