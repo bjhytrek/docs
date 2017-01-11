@@ -6,14 +6,11 @@ The following are topics that we can learn about, write about and teach to one a
 
 - Storage options
 - React Lifecycle Events (What they are and when to use them)
-- Pseudo Classes & Pseudo Elements
 - Selector Performance
 - vMin & vMax
 - Event Delegation and Event Bubbling
 - Layout / Paint / Composite
 - Unit Testing
-- CSS Variables
-- Recursion vs Looping
 - IndexDB / Local storage
 - attr (css)
 - WebWorkers
@@ -31,6 +28,9 @@ The following are topics that we can learn about, write about and teach to one a
 - State - Brendan
 - Class Structures and patterns in JS - Colt
 - Native Components - David
+- Pseudo Classes & Pseudo Elements - JT
+- CSS Variables - JT
+- Recursion vs Looping - Juwdohr
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
