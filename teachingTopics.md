@@ -14,7 +14,6 @@ The following are topics that we can learn about, write about and teach to one a
 - Unit Testing
 - CSS Variables
 - Recursion vs Looping
-- Native Components
 - IndexDB / Local storage
 - attr (css)
 - WebWorkers
@@ -31,6 +30,7 @@ The following are topics that we can learn about, write about and teach to one a
 
 - State - Brendan
 - Class Structures and patterns in JS - Colt
+- Native Components - David
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
