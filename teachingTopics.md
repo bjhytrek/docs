@@ -25,7 +25,6 @@ The following are topics that we can learn about, write about and teach to one a
 
 ### Assigned Topics
 
-- State - Brendan
 - Class Structures and patterns in JS - Colt
 - Native Components - David
 - Pseudo Classes & Pseudo Elements - JT
@@ -35,6 +34,8 @@ The following are topics that we can learn about, write about and teach to one a
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
 ### Done Topics
+
+- State - Brendan
 - Aria - Kerry - https://medium.com/mofed/the-aria-affect-976e2bb6f179#.cmcfnwhbk
 - CSS Grid - Nils - https://medium.com/mofed/css-grid-layout-you-need-to-know-it-now-70a6dbc9bc55#.opjm87bpp
 - React architecture overview - Component and projects starters - Colt - https://medium.com/mofed/react-redux-architecture-overview-7b3e52004b6e#.2ubjpfns6
