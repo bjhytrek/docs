@@ -5,7 +5,6 @@ The following are topics that we can learn about, write about and teach to one a
 ### Unassigned Topics
 
 - Storage options
-- React Lifecycle Events (What they are and when to use them)
 - Selector Performance
 - vMin & vMax
 - Event Delegation and Event Bubbling
@@ -28,8 +27,9 @@ The following are topics that we can learn about, write about and teach to one a
 - Class Structures and patterns in JS - Colt
 - Native Components - David
 - Pseudo Classes & Pseudo Elements - JT
-- CSS Variables - JT
 - Recursion vs Looping - Juwdohr
+- React Lifecycle Events (What they are and when to use them)
+- CSS Variables - JT
 
 To select a topic to teach on, please add your name to it along with the date you plan on presenting, then move it to the Assigned Topics list.
 
