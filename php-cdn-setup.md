@@ -17,7 +17,7 @@ Make folders
 `mkdir Sites/csp`
 `mkdir Sites/cdn2/csp`
 
-* Copy the **barkeraj.conf** file into **macintosh HD > private > etc > apache2 > users**
+* Copy the **barkeraj.conf** file (found at the bottom of this document.) into **macintosh HD > private > etc > apache2 > users**
 In barkeraj.conf change instances of “barkeraj” to your own username
 
 * **macintosh HD > private > etc > apache2** folder open **httpd.conf** in sublime and uncomment out line 493 (Include **/private/etc/apache2/extra/httpd-userdir.conf**)
@@ -109,3 +109,50 @@ after you merge into master, delete the feature branch
 ##https version of pages
 This worked for me but did require a few minor tweaks as I was going through (we have a different path for file location, etc
 https://gist.github.com/jonathantneal/774e4b0b3d4d739cbc53 
+
+
+
+##barkeraj.conf file
+```ServerName localhost
+
+# enable php
+#LoadModule php5_module        libexec/apache2/libphp5.so
+LoadModule php5_module libexec/apache2/libphp5.so
+
+# enable SSL
+LoadModule ssl_module libexec/apache2/mod_ssl.so
+#Include /private/etc/apache2/extra/httpd-ssl.conf
+
+# change path for localhost
+DocumentRoot "/Users/barkeraj/Sites"
+DirectoryIndex  index.html  index.php  /_h5ai/server/php/index.php
+
+# Allow URL rewrites
+LoadModule rewrite_module libexec/apache2/mod_rewrite.so
+
+#load mod_deflate (gzip)
+LoadModule deflate_module libexec/apache2/mod_deflate.so
+
+
+<Directory "/Users/barkeraj/Sites/">
+ Options Indexes MultiViews
+ AllowOverride All
+ Order allow,deny
+ Allow from all
+ Require all granted
+ Options +FollowSymLinks
+ 
+ # parse html as php
+ AddType text/html .shtml .html
+ # AddOutputFilter INCLUDES .shtml .html
+ AddType application/x-httpd-php .html
+
+ AddType  application/font-woff2  .woff2
+</Directory>
+
+SetOutputFilter DEFLATE
+#DeflateFilterNote ratio
+SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|woff2)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.(?:exe|t?gz|zip|bz2|sit|rar)$ no-gzip dont-vary
+SetEnvIfNoCase Request_URI \.pdf$ no-gzip dont-var
+```
